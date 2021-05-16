@@ -1,0 +1,24 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server --port=3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iluzych/codewars.git"
+  },
+  "keywords": [],
+  "author": "Ieva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iluzych/codewars/issues"
+  },
+  "homepage": "https://github.com/iluzych/codewars#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
